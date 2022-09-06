@@ -9,6 +9,7 @@
 **Telegram:** @aedeviatova
 
 **GitHub:** [deviatovae](https://github.com/deviatovae)
+
 ___
 
 ### Skills
@@ -17,6 +18,7 @@ ___
 - CSS
 - Javascript
 - Git
+
 ___
 
 ### Courses
@@ -25,6 +27,7 @@ ___
 - HTML Academy
 - W3Schools
 - RS-school / JavaScript/Front-end (in progress)
+
 ___
 
 ### About me
@@ -32,6 +35,7 @@ ___
 My learning path in programming started a year ago when I decided to quit my job as an English teacher and challenge myself to learn coding.
 
 I am fully aware of the step I make to embrace the complexity of coding, yet I believe it will be a fun and rewarding journey. 
+
 ___
 
 ### Code examples
@@ -54,10 +58,13 @@ ___
 ### Projects on GitHub
 
 ![**Carousel**](img/carousel.png)
+
 https://deviatovae.github.io/image-carousel/
 
 ![**TodoList**](img/todo.png)
+
 https://deviatovae.github.io/todo-practice/
+
 ___
 
 ### Languages
