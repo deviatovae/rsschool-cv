@@ -11,3 +11,24 @@
 
 **GitHub:** [deviatovae](https://github.com/deviatovae)
 _____
+
+### Skills
+
+- HTML
+- CSS
+- Javascript
+- Git
+
+### Courses
+
+- FreeCodeCamp
+- HTML Academy
+- W3Schools
+
+
+
+
+
+
+
+
