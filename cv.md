@@ -59,11 +59,11 @@ ___
 
 ![**Carousel**](img/carousel.png)
 
-https://deviatovae.github.io/image-carousel/
+[https://deviatovae.github.io/image-carousel/](https://deviatovae.github.io/image-carousel/)
 
 ![**TodoList**](img/todo.png)
 
-https://deviatovae.github.io/todo-practice/
+[https://deviatovae.github.io/todo-practice/](https://deviatovae.github.io/todo-practice/)
 
 ___
 
