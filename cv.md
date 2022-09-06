@@ -1,6 +1,5 @@
 # Alena Deviatova
 
----
 ### Contact information
 
 **Phone:** +79852159605
@@ -10,7 +9,7 @@
 **Telegram:** @aedeviatova
 
 **GitHub:** [deviatovae](https://github.com/deviatovae)
-_____
+___
 
 ### Skills
 
@@ -18,14 +17,15 @@ _____
 - CSS
 - Javascript
 - Git
-______________
+___
+
 ### Courses
 
 - FreeCodeCamp
 - HTML Academy
 - W3Schools
 - RS-school / JavaScript/Front-end (in progress)
-_________________________
+___
 
 ### About me
 
@@ -33,6 +33,7 @@ My learning path in programming started a year ago when I decided to quit my job
 
 I am fully aware of the step I make to embrace the complexity of coding, yet I believe it will be a fun and rewarding journey. 
 ___
+
 ### Code examples
 
 
@@ -48,20 +49,19 @@ function countSheeps(arrayOfSheep) {
    return arrayOfSheep.reduce ((total, sheep) => total + (sheep ? 1 : 0))
 }
 ```
-____
+___
 
 ### Projects on GitHub
 
-![**Carousel**](img/carousel.png) ![**TodoList**](img/todo.png)
-_____
+![**Carousel**](img/carousel.png)
+https://deviatovae.github.io/image-carousel/
+
+![**TodoList**](img/todo.png)
+https://deviatovae.github.io/todo-practice/
+___
+
 ### Languages
 
 - Russian / *Native* 
 - English / *Proficient*
 - French / *Advanced*
-
-
-
-
-
-
